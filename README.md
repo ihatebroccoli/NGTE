@@ -19,7 +19,7 @@ https://www.roboti.us/download.html
 ./scripts/AntMazeComplex.sh 0 0 exp
 ```
 
-## Troubleshooting
+## Errors
 
 protobuf error
 
